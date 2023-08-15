@@ -1,6 +1,6 @@
 ---
-title: '静的ジェネレートとSSRの違い'
-date: '2020-01-01'
+title: '【Next.js入門】Next.jsの概要'
+date: '2023-08-14'
 ---
 
 Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
